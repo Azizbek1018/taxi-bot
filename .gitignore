@@ -1,0 +1,20 @@
+# Maxfiy ma'lumotlar - hech qachon GitHub'ga yuklanmasin
+.env
+
+# Haydovchi ma'lumotlari (har bir serverda o'zi generatsiya bo'ladi)
+driver_data.json
+
+# Python vaqtinchalik fayllari
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE fayllari
+.vscode/
+.idea/
+
+# OS fayllari
+.DS_Store
